@@ -22,6 +22,8 @@ NIM  : E41201809<br/>
 
 
 
-![Demo](https://user-images.githubusercontent.com/47249108/136838185-d5425d0f-82ae-4465-805e-35ec7b109681.mp4)
+https://user-images.githubusercontent.com/47249108/136841125-d1f8104e-a99e-4087-a3fe-5ec2585a8e60.mp4
 
-
+<video auto-play="true" loop="loop" muted="muted" plays-inline="true">
+  <source src="https://user-images.githubusercontent.com/47249108/136841125-d1f8104e-a99e-4087-a3fe-5ec2585a8e60.mp4" type="video/mp4">
+</video>
