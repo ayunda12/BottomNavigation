@@ -18,7 +18,7 @@ NIM  : E41201809<br/>
 <img src="https://user-images.githubusercontent.com/47249108/136838181-e428956b-b8f6-422f-9d00-fc89e91b4011.jpg" width="260" height="550"><br/>
 
 <b>1. Tampilan Menu Akun</b> <br/>
-<img src="https://user-images.githubusercontent.com/47249108/136838178-fb4e640f-eeb4-4154-90a1-881d1f339f9f.jpg" width="260" height="550"><br/>
+<img src="https://user-images.githubusercontent.com/47249108/136838178-fb4e640f-eeb4-4154-90a1-881d1f339f9f.jpg" width="288" height="640"><br/>
 
 
 
