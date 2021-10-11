@@ -5,8 +5,11 @@ NIM  : E41201809<br/>
 <br/>
 
 
-<b>1. Tampilan awal</b> <br/>
-<img src="https://user-images.githubusercontent.com/47249108/136838541-43ca4fd0-264a-42f7-ac12-8d2e68738ba7.jpg" width="260" height="550">
+<b>1. Tampilan awal (Menu Home)</b> <br/>
+<img src="https://user-images.githubusercontent.com/47249108/136838541-43ca4fd0-264a-42f7-ac12-8d2e68738ba7.jpg" width="260" height="550"><br/>
+
+<b>1. Tampilan Menu Pencarian</b> <br/>
+<img src="https://user-images.githubusercontent.com/47249108/136838163-9b7a0a4a-1bc6-4dcb-bda0-99a1a55249d3.jpg" width="260" height="550">
 
 
 ![Screenshot_2021-10-12-01-27-58-01](https://user-images.githubusercontent.com/47249108/136838163-9b7a0a4a-1bc6-4dcb-bda0-99a1a55249d3.jpg)
