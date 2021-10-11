@@ -21,14 +21,6 @@ NIM  : E41201809<br/>
 <img src="https://user-images.githubusercontent.com/47249108/136838178-fb4e640f-eeb4-4154-90a1-881d1f339f9f.jpg" width="288" height="640"><br/>
 
 
-
-https://user-images.githubusercontent.com/47249108/136841125-d1f8104e-a99e-4087-a3fe-5ec2585a8e60.mp4
-
-<video auto-play="true" loop="loop" muted="muted" plays-inline="true">
-  <source src="https://user-images.githubusercontent.com/47249108/136841125-d1f8104e-a99e-4087-a3fe-5ec2585a8e60.mp4" type="video/mp4">
-</video>
-
-<b>5. Tampilan Menu Akun</b> <br/>
+<b>Demo Tampilan</b> <br/>
 <img src="https://user-images.githubusercontent.com/47249108/136843534-fd1bc8c6-ecab-4044-be30-b4812c998e3e.gif" width="288" height="640"><br/>
 
-![](https://user-images.githubusercontent.com/47249108/136843534-fd1bc8c6-ecab-4044-be30-b4812c998e3e.gif){:height="640px" width="288px"}
