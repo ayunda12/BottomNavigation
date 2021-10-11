@@ -28,4 +28,7 @@ https://user-images.githubusercontent.com/47249108/136841125-d1f8104e-a99e-4087-
   <source src="https://user-images.githubusercontent.com/47249108/136841125-d1f8104e-a99e-4087-a3fe-5ec2585a8e60.mp4" type="video/mp4">
 </video>
 
+<b>5. Tampilan Menu Akun</b> <br/>
+<img src="https://user-images.githubusercontent.com/47249108/136843534-fd1bc8c6-ecab-4044-be30-b4812c998e3e.gif" width="288" height="640"><br/>
+
 ![](https://user-images.githubusercontent.com/47249108/136843534-fd1bc8c6-ecab-4044-be30-b4812c998e3e.gif){:height="640px" width="288px"}
