@@ -4,7 +4,7 @@ NIM  : E41201809<br/>
 
 <br/>
 
-
+<u>(Berikut adalah screenshot hasil dan video demo hasil tampilan)<u/><br/>
 <b>1. Tampilan awal (Menu Home)</b> <br/>
 <img src="https://user-images.githubusercontent.com/47249108/136838541-43ca4fd0-264a-42f7-ac12-8d2e68738ba7.jpg" width="288" height="640"><br/>
 
