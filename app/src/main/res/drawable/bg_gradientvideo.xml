@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!--background gradient untuk fragment video-->
+    <gradient
+        android:startColor="#0ccda3"
+        android:endColor="#c1fcd3"
+        android:angle="270"
+        />
+
+</shape>

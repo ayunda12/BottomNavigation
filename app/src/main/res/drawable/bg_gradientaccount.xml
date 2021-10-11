@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+<!--background gradient untuk fragment account-->
+    <gradient
+        android:startColor="#e3ff73"
+        android:endColor="#e27c39"
+        android:angle="270"
+        />
+
+</shape>

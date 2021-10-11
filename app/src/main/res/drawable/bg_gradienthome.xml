@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!--background gradient untuk fragment home-->
+    <gradient
+        android:startColor="#9600ff"
+        android:endColor="#Aebaf8"
+        android:angle="270"
+        />
+
+</shape>
